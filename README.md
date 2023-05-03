@@ -8,7 +8,7 @@ Rock, Paper, Scissors!
 > project especially when it comes to the importance of organizing code,
 > how loops work and just reenforcing the basics I had learned before.
 >
-> <img src="media/image1.JPG" style="width:6.94792in;height:3.70208in" />I
+> I
 > used a tutorial found at
 > (<https://realpython.com/python-rock-paper-scissors/>) to help me get
 > started. The first phase of the project was just getting the basic
@@ -44,7 +44,6 @@ Rock, Paper, Scissors!
 > of free time I had and decided I was happy with just having it loop
 > back through so they could try again so I could finish this project
 > and move on to the next one. The below image shows several round in
-> <img src="media/image2.JPG" style="width:7.84375in;height:4.17986in" />a
 > row, keeping score over each round and how it will handle an error on
 > the user input.
 >
